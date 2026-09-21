@@ -1,0 +1,8 @@
+@import "variables.css";
+@import "class.css";
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
